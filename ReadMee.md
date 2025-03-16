@@ -62,7 +62,7 @@
 
 ###
 
-<div align="left" style="display: flex; justify-content:space-between ;gap:1px;" >
+<div align="left" style="display: flex; gap:10px;" >
   <img src="https://github-readme-stats.vercel.app/api?username=daniyalush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyalush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
     <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif"  />
