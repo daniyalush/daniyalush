@@ -49,7 +49,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
 </picture> 
 </a>
-<a href="https://discord.com/users/daniyalush" target="_blank" rel="noreferrer"> 
+<a href="" target="_blank" rel="noreferrer"> 
 <picture> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
 </picture> 
