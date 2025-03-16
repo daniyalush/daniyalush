@@ -10,9 +10,9 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 * ✉️  You can contact me at [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)
 * ⚡  Let's build something amazing together!
   
-<div align="right">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" height="150" />
- </div>
+
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" height="150" align="right" />
+
  
 ### Skills & Technologies
 
