@@ -73,7 +73,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 </div>
 
 ### Socials
-<div align="left" style="gap: 100px;"> 
+<div style="display: flex; justify-content: space-between;> 
 <a href="https://discord.com/users/daniyalush" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
