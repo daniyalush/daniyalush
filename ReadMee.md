@@ -6,10 +6,11 @@ Full-Stack Developer | UI/UX Designer | AI and DS Engineer
 
 Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
 
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" height="250" align="right" />
+
 * 🖥️  See my portfolio at [DaniyalushX](http://portfolio-daniyalush.vercel.app)
 * ✉️  You can contact me at [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)
 * ⚡  Let's build something amazing together!
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" height="150" align="right" />
 
  
 ### Skills & Technologies
