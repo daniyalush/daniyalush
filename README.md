@@ -10,7 +10,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 * ✉️  You can contact me at [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)
 * ⚡  Let's build something amazing together!
 
-### Skills
+### Skills & Technologies
 
 
 <p align="left">
