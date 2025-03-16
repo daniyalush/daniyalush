@@ -1,20 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DaniyalushX
-===================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DaniyalushX
 
-Full-Stack Developer | UI/UX Designer | AI and DS Engineer
-----------------------------------------------------------
+## Full-Stack Developer | UI/UX Designer | AI and DS Engineer
 
 Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
 
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" 
+<img src="/Animation - 1742144902585.gif" 
  height="200" align="right" />
- <img width="15" />
+<img width="15" />
 
-* 🖥️  See my portfolio at [DaniyalushX](http://portfolio-daniyalush.vercel.app)
-* ✉️  You can contact me at [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)
-* ⚡  Let's build something amazing together!
+- 🖥️  See my portfolio at [DaniyalushX](http://portfolio-daniyalush.vercel.app)
+- ✉️  You can contact me at [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)
+- ⚡  Let's build something amazing together!
 
- 
 ### Skills & Technologies
 
 <div align="left"> 
