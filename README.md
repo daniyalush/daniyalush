@@ -1,6 +1,6 @@
 # Hi there!, I'm **DaniyalushX** 👋
 
-🚀 **Full-Stack Developer | UI/UX Enthusiast | Cloud Computing Enthusiast**
+🚀 **Full-Stack Developer | UI/UX Designer | AI and DS Engineer**
 
 Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
 
