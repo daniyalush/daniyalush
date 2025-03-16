@@ -3,6 +3,7 @@
 ###
 
 <div align="left"> 
+  <div width="50%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -56,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=xd" height="35" alt="xd logo"  />
+  </div>
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif"  />
 </div>
 
 ###
