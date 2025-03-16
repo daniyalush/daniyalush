@@ -73,9 +73,9 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 
 <div align="center">
   <a href="https://open.spotify.com/user/yc09pmmewxss8jphimx4lxqm1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yc09pmmewxss8jphimx4lxqm1&count=5" alt="Spotify recently played" height="200"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yc09pmmewxss8jphimx4lxqm1&count=5" alt="Spotify recently played" height="250"  />
   </a>
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" height="200" />
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" height="250" />
 </div>
 
 ###
