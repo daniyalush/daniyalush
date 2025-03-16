@@ -6,7 +6,8 @@ Full-Stack Developer | UI/UX Designer | AI and DS Engineer
 
 Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
 
- <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif](https://app.lottiefiles.com/share/3995f9fc-efef-4f18-ac25-e71c107d2f89)" height="200" align="right" />
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1Y2piMjI1bjI2eDIxNGpnZXAzcHQ4eDJwOG96bzlzbXNqOG1yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" 
+ height="200" align="right" />
  <img width="15" />
 
 * 🖥️  See my portfolio at [DaniyalushX](http://portfolio-daniyalush.vercel.app)
@@ -113,11 +114,11 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 ### Stats
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
-  <img width="25" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyalush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=daniyalush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
+<img width="25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyalush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" />
 </div>
 
-  <div align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/daniyalush/daniyalush/output/snake.svg" alt="Snake animation" />
   </div>
