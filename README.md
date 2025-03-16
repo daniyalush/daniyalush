@@ -4,7 +4,7 @@
 
 Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
 
-<img src="/Animation.gif" align="right" height="200px" />
+<img src="/Animation.gif" align="right" height="600px" />
 <img width="15" />
 
 - 🖥️  See my portfolio at [DaniyalushX](http://portfolio-daniyalush.vercel.app)
