@@ -82,7 +82,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
 </picture>
 </a> 
- <img width="15" />
+ <img width="10" />
 <a href="https://www.github.com/daniyalush" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -90,7 +90,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
 </picture> 
 </a> 
- <img width="15" />
+ <img width="10" />
 <a href="http://www.instagram.com/daniyalush" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
@@ -98,6 +98,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
 </picture> 
 </a> 
+ <img width="10" />
 <a href="https://www.linkedin.com/in/daniyalush" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
