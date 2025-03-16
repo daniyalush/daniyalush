@@ -6,19 +6,8 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 
 ---
 
-## 🔥 Tech Stack & Skills
+### 🔥 Tech Stack & Skills
 
-### 🎨 **Front-End Development**
-🖥️ HTML5 & CSS3 | 🎨 TailwindCSS | 🎭 Material UI | ⚛️ ReactJS | 🌐 NextJS
-
-### 🛠 **Back-End Development**
-🚀 MERN Stack (MongoDB, Express.js, React.js, Node.js) | ☁️ Azure DevOps
-
-### 🎯 **UI/UX & Web Design**
-🖌️ UI/UX Principles | 🎨 Canva | 🌍 WordPress
-
-### 🧰 **Version Control & Deployment**
-🔗 Git/GitHub | ☁️ Cloud Computing
 
 ---
 
