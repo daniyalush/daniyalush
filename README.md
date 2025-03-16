@@ -22,7 +22,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 
 <p align="left"> <a href="https://discord.com/users/daniyalush" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/daniyalush" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/daniyalush" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/daniyalush" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## 📜 Certifications 🏆
+### Certifications 
 ✅ Front End Web Development Certification  
 ✅ Advanced JavaScript Certification  
 ✅ MongoDB Certification  
@@ -31,13 +31,13 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 
 ---
 
-## 🌍 Languages 🌐
+### Languages 
 🗣️ **Urdu:** Native/Bilingual Proficiency  
 🗣️ **English:** Full Professional Proficiency  
 
 ---
 
-## 🚀 Connect With Me 🌎
+###  Connect With Me 
 📧 **Email:** [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/daniyalush](https://www.linkedin.com/in/daniyalush)  
 
