@@ -49,11 +49,6 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
 </picture> 
 </a>
-<a href="" target="_blank" rel="noreferrer"> 
-<picture> 
-<img src="https://img.icons8.com/?size=100&id=5RKOijedhIGw&format=png&color=000000" width="32" height="32" /> 
-</picture> 
-</a> 
 </p>
 
 
