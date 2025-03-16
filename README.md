@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Syed Daniyal Ali Shah**
 
-<!--
-**daniyalush/daniyalush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | UI/UX Enthusiast | Cloud Computing Enthusiast**
 
-Here are some ideas to get you started:
+Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Tech Stack & Skills
+
+### 🎨 **Front-End Development**
+🖥️ HTML5 & CSS3 | 🎨 TailwindCSS | 🎭 Material UI | ⚛️ ReactJS | 🌐 NextJS
+
+### 🛠 **Back-End Development**
+🚀 MERN Stack (MongoDB, Express.js, React.js, Node.js) | ☁️ Azure DevOps
+
+### 🎯 **UI/UX & Web Design**
+🖌️ UI/UX Principles | 🎨 Canva | 🌍 WordPress
+
+### 🧰 **Version Control & Deployment**
+🔗 Git/GitHub | ☁️ Cloud Computing
+
+---
+
+## 📜 Certifications 🏆
+✅ Front End Web Development Certification  
+✅ Advanced JavaScript Certification  
+✅ MongoDB Certification  
+✅ Web Designing in Canva Certification  
+✅ Web Designing in WordPress Certification  
+
+---
+
+## 🌍 Languages 🌐
+🗣️ **Urdu:** Native/Bilingual Proficiency  
+🗣️ **English:** Full Professional Proficiency  
+
+---
+
+## 🚀 Connect With Me 🌎
+📧 **Email:** [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/daniyalush](https://www.linkedin.com/in/daniyalush)  
+
+🚀 Let's build something amazing together! 🚀
+
