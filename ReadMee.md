@@ -1,6 +1,16 @@
-<h1 align="left">Hii, My name is DaniyalushX</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DaniyalushX
+===================================================================================================================================
 
-###
+Full-Stack Developer | UI/UX Designer | AI and DS Engineer
+----------------------------------------------------------
+
+Passionate Full-stack developer crafting digital experiences that captivate and inspire. Proficient in creating visually stunning and user-friendly websites, merging creativity with technical expertise for impactful online solutions.
+
+* 🖥️  See my portfolio at [DaniyalushX](http://portfolio-daniyalush.vercel.app)
+* ✉️  You can contact me at [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)
+* ⚡  Let's build something amazing together!
+
+### Skills & Technologies
 
 <div align="left"> 
   <div style="display: flex; justify-content: space-between;">
