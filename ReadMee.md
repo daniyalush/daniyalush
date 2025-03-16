@@ -73,7 +73,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 </div>
 
 ### Socials
-<p align="left" gap="2" style=""> 
+<div align="left"> 
 <a href="https://discord.com/users/daniyalush" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
@@ -102,7 +102,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
 </picture> 
 </a>
-</p>
+</div>
 
 ###
 <div align="center">
