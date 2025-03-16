@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Syed Daniyal Ali Shah**
+# Hi there!, I'm **DaniyalushX** 👋
 
 🚀 **Full-Stack Developer | UI/UX Enthusiast | Cloud Computing Enthusiast**
 
