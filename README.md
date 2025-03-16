@@ -8,7 +8,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 
 ### 🔥 Tech Stack & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,babel,vite,tailwindcss,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,materialui,vite,babel)](https://skillicons.dev)
 
 ---
 
