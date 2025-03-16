@@ -31,15 +31,5 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
 
 ---
 
-### Languages 
-🗣️ **Urdu:** Native/Bilingual Proficiency  
-🗣️ **English:** Full Professional Proficiency  
-
----
-
-###  Connect With Me 
-📧 **Email:** [daniyalashah988@gmail.com](mailto:daniyalashah988@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/daniyalush](https://www.linkedin.com/in/daniyalush)  
-
 🚀 Let's build something amazing together! 🚀
 
