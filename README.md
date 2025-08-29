@@ -27,7 +27,7 @@ Passionate Full-stack developer crafting digital experiences that captivate and 
   <img width="15" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="express logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=angular&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo"  />
   <img width="15" />
